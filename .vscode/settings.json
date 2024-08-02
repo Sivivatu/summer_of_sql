@@ -1,0 +1,6 @@
+{
+    "sqlfluff.dialect": "snowflake",
+    "sqlfluff.executablePath": "C:\\Users\\paulj\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\summer-of-sql-7lxCC-7K-py3.12/Scripts\\sqlfluff.exe",
+    "sqlfluff.config": ".sqlfluff",
+    "sqlfluff.ignoreLocalConfig": false
+}

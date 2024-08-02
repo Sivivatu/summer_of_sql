@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "summer-of-sql"
+version = "0.1.0"
+description = "Project to complete the TIL summer of SQL series"
+authors = ["Paul <Sivivatu@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[tool.poetry.group.dev.dependencies]
+sqlfluff = "^3.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
